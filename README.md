@@ -16,3 +16,17 @@
   출력: 모든 작업이 종료된 시간
 
 ![image](https://user-images.githubusercontent.com/80371590/118577807-0b8b0580-b7c6-11eb-9893-c5ceb5f979a9.png)
+
+  작업의 개수가 4일 때,
+  
+![image](https://user-images.githubusercontent.com/80371590/118578227-be5b6380-b7c6-11eb-9e03-430ab448dd24.png)
+
+  작업의 개수가 8일 때,
+  
+![image](https://user-images.githubusercontent.com/80371590/118578297-dcc15f00-b7c6-11eb-98f6-44c13d5585a7.png)
+
+  작업의 개수가 16일 때,
+  
+![image](https://user-images.githubusercontent.com/80371590/118578330-ecd93e80-b7c6-11eb-9b33-e91abf4f6856.png)
+
+
