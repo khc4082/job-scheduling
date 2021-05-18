@@ -19,15 +19,15 @@
 
 ### 결과 도출
 
-  작업의 개수가 4일 때,
+ * 작업의 개수가 4일 때,
   
 ![image](https://user-images.githubusercontent.com/80371590/118578227-be5b6380-b7c6-11eb-9e03-430ab448dd24.png)
 
-  작업의 개수가 8일 때,
+ * 작업의 개수가 8일 때,
   
 ![image](https://user-images.githubusercontent.com/80371590/118578297-dcc15f00-b7c6-11eb-98f6-44c13d5585a7.png)
 
-  작업의 개수가 16일 때,
+ * 작업의 개수가 16일 때,
   
 ![image](https://user-images.githubusercontent.com/80371590/118578330-ecd93e80-b7c6-11eb-9b33-e91abf4f6856.png)
 
@@ -37,12 +37,12 @@
   이러한 기계를 찾기 위해 for-루프가 (m-1)번 수행된다.   
   따라서 O(m) 시간 동안 기계의 작업 종료 시간을 살핀다.   
   또한, n개의 작업을 배정하고, 마지막 `L[min] = L[min] + ti`에서 배열을 탐색한다.   
-  n*O(m) + O(m) = O(nm)   
+ * `n*O(m) + O(m) = O(nm)`   
   
 ### 근사비율
 
   Approx_JobScheduling 알고리즘의 근사해를 OPT’, 최적해를 OPT라고 한다.   
-* OPT’ <= 2*OPT이다.   
+* `OPT’ <= 2*OPT이다.`  
 
 ![image](https://user-images.githubusercontent.com/80371590/118579133-72112300-b7c8-11eb-81eb-5d98c8d8f94c.png)
 
