@@ -6,12 +6,12 @@ public class JobScheduling {
         int m = 2; // 기계의 개수 2 고정
         int[] t = new int[n]; // 수행 시간 (10초이내)
         Random random = new Random();
-        System.out.print(" 작업 시간 : ");
         for (int i = 0; i < n; i++) {
             t[i] = random.nextInt(10) + 1;
             System.out.printf("%d ", t[i]);
         }
         System.out.println();
+        System.out.println("가장 마지막에 완료한 작업 시간");
         System.out.println(schedule(n, m, t));
     }
 
