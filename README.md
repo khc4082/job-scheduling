@@ -10,7 +10,7 @@
 ### 작동 구조
 
 Approx_JobScheduling
-입력: 4,8,16개의 작업, 작업시간 = 10초이내, 기계의 개수 M= 2
+입력: 4, 8, 16개의 작업, 작업시간 = 10초이내, 기계의 개수 M= 2
 출력: 모든 작업이 종료된 시간
 
 ![image](https://user-images.githubusercontent.com/80371590/118577807-0b8b0580-b7c6-11eb-9893-c5ceb5f979a9.png)
