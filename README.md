@@ -41,7 +41,10 @@
   
 ### 근사비율
 
-  Approx_JobScheduling 알고리즘의 근사해를 OPT’, 최적해를 OPT라고 한다.
-OPT’ <= 2*OPT이다.
+  Approx_JobScheduling 알고리즘의 근사해를 OPT’, 최적해를 OPT라고 한다.   
+* OPT’ <= 2*OPT이다.   
+
+![image](https://user-images.githubusercontent.com/80371590/118579133-72112300-b7c8-11eb-81eb-5d98c8d8f94c.png)
+
 
 
